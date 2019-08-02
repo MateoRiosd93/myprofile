@@ -1,2 +1,5 @@
 26 de julio 
     -Falta organizar ruta de la imagen
+
+31 de julio 
+    -pendiente empezar el cuerpo de cada componente y realizar la barra de navegacion movil. 
