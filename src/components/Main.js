@@ -7,6 +7,7 @@ import Education from "./Education";
 import Skills from "./Skills";
 import Hobbies from "./Hobbies"
 import Achievements from "./Achievements";
+import Footer from "./Footer";
 
 function Router() {
   return (
@@ -20,6 +21,7 @@ function Router() {
         <Route path="/Hobbies" component={Hobbies} />
         <Route path="/Achievements" component={Achievements} />
       </Switch>
+      <Footer/>
     </div>
   );
 }
