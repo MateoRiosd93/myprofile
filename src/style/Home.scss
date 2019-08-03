@@ -1,0 +1,55 @@
+.container-home{
+    height: 280px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title-home{
+    font-family: var(--font-titles);
+    margin: 0;
+}
+
+.container-name-information{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name{
+    font-family: var(--font-titles);
+    font-size: 35px;
+    margin-bottom: 0;
+    font-style: italic;
+}
+
+.lastnames{
+    font-family: var(--font-titles);
+    font-style: normal;
+    color: rgb(35, 155, 115);
+}
+
+.container-information{
+    font-size: 14px;
+    font-family: var(--font-text);
+    display: flex;
+    flex-direction: column;
+}
+
+.ubication{
+    padding-right: 1rem;
+}
+
+.email{
+    margin: 0 auto;
+} 
+
+.container-profession{
+    font-family: var(--font-titles);
+    margin: 3rem ;
+}
+
+.profession{
+    margin: 0;
+    text-align: center;
+}
