@@ -39,7 +39,7 @@
     background: rgb(0, 0, 0);
     position: absolute;
     border-radius: 4px;
-    box-shadow: 0 1px 5px rgb(35, 155, 115);
+    box-shadow: 0 1px 2px rgb(0, 0, 0);
     transition: 0.3s;
 }
 .hamburger_line:nth-child(2) {
@@ -116,8 +116,8 @@ $color: rgb(35, 155, 115);
 }
 
 .item{
-    font-family: sans-serif;
-    font-style: italic;
+    font-family: var(--font-text);
+    // font-style: italic;
     color: white;
     text-decoration: none;
 }

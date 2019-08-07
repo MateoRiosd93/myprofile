@@ -1,0 +1,26 @@
+.title-about{
+    margin: 0.2rem auto;
+    text-align: center;
+    font-family: var(--font-titles);
+}
+
+.container-text-about{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.text-about{
+    margin: 0.2rem;
+    text-align: justify;
+    font-family: var(--font-text);
+    font-size: 14px
+}
+
+.sentence-about{
+    margin-top: 0.5rem;
+    text-align: center;
+    font-family: var(--font-titles);
+    font-weight: bold;
+    font-style: italic;
+}
