@@ -3,3 +3,16 @@
 
 31 de julio 
     -pendiente empezar el cuerpo de cada componente y realizar la barra de navegacion movil. 
+
+text about me 
+
+hola, soy mateo rios un ingeniero informatico del Politecnico Colombiano Jaime Isaza Cadavid, 
+Me apasiona el desarrollo web, por lo cual actualmente me desempeño como frontend developer.
+Soy una persona que le encanta aprender cada dia mas sobre este mundo de la tecnologia en 
+especial del desarrollo, como tambien aprender de las personas con las cuales trabajo. 
+amo trabajar en un ambiente laboral el cual se base en el respeto por el otro, para desarrollar 
+grandes cosas. me encanta el deporte, estar en familia y amigos, me gusta el futbol, montar bicicleta, 
+hacer ejericio y leer de  temas relacionados con la tecnologia.
+
+"siempre se puede ser mejor" 
+
