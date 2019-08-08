@@ -25,7 +25,6 @@ export default function About() {
           cycling, exercising and reading about technology related topics.
         </p>
         <span className="sentence-about">
-          {" "}
           "you can always be better" Tigger Woods
         </span>
       </div>
