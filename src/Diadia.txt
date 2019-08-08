@@ -16,3 +16,12 @@ hacer ejericio y leer de  temas relacionados con la tecnologia.
 
 "siempre se puede ser mejor" 
 
+
+text Experience 
+
+web developer : Como desarrollador we llevo alrededor de 1 año de experiencia en el cual he 
+aprendido demasiado gracias al estar participando en bootcamps como lo fue el React WorkShop 
+realizado por el Politecnico Colombiano Jaime Isaza Cadavid y el bootcamp Top-gun- lab React 
+realizado por Team Internacional en rutaN, ademas de esto aprendiendo demasiado en plataformas 
+que tienen excelentes cursos como lo son EDteam y Udemy. Tambien es importante leer la documentacion
+de lo que se esta aprendiendo ya que es de gran ayuda y potencia nuesto aprendizaje.
