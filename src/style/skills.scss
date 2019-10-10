@@ -1,0 +1,57 @@
+.container-skills{
+    display: flex;
+    flex-direction: column;
+}
+
+.title{
+    margin: 0 auto;
+    font-family: var(--font-titles);
+}
+
+.sub-title{
+    text-align: center;
+    font-family: var(--font-titles);
+}
+
+.container-knowlege{
+    display: flex;
+    flex-direction: column;
+}
+
+.container-acquired{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.container-img{
+    width: 100px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-img img{
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.container-img img:hover{
+    transform: scale(1.03);
+}
+
+.container-inlearning{
+    margin-bottom: 1rem;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}
